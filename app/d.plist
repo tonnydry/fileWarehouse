@@ -29,7 +29,8 @@
                    <key>url</key>
                    <string>http://se.zjbd.com.cn:8089/file/ios/icon.png</string>
                </dict>
-           </array><key>metadata</key>
+           </array>
+		   <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>xitai.ZhongJiaoBigDipper</string>
