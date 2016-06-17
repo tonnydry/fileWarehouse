@@ -32,9 +32,9 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>xitai.ZhongJiaoBigDipper</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>1.0.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
